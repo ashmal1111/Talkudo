@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "username": "ashmal",
+      "email": "mohammedashmlapk518@gmail.com",
+      "password_hash": "5a440f05d234a2d802dd9804737cc5e13b64bbc4a77042553a145da20164a85f",
+      "salt": "f1dee01eb4579ef95edda8c3dcde9f5e",
+      "display_name": null,
+      "avatar": null,
+      "status": "offline",
+      "last_seen": "2026-05-24 10:13:48.306063",
+      "created_at": "2026-05-24 04:20:50",
+      "theme": "dark"
+    },
+    {
+      "user_id": 2,
+      "username": "kunjayamu",
+      "email": "mohammedashmalpk518@gmail.com",
+      "password_hash": "fa9038df28c60800b913d9a8a3a0e8b4dfe41f43907e9f381825123ceff126e6",
+      "salt": "bc6a44a0bade6fcf6d6399c4e9757241",
+      "display_name": null,
+      "avatar": null,
+      "status": "online",
+      "last_seen": "2026-05-24 10:14:49.440370",
+      "created_at": "2026-05-24 04:22:46",
+      "theme": "dark"
+    }
+  ],
+  "sqlite_sequence": [
+    {
+      "name": "users",
+      "seq": 2
+    },
+    {
+      "name": "messages",
+      "seq": 5
+    }
+  ],
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "group_id": null,
+      "message_type": "text",
+      "content": "hi",
+      "file_path": null,
+      "timestamp": "2026-05-24 09:53:09.439676",
+      "is_read": 0,
+      "is_delivered": 1
+    },
+    {
+      "message_id": 2,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "group_id": null,
+      "message_type": "text",
+      "content": "hi",
+      "file_path": null,
+      "timestamp": "2026-05-24 09:53:21.935977",
+      "is_read": 0,
+      "is_delivered": 1
+    },
+    {
+      "message_id": 3,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "group_id": null,
+      "message_type": "text",
+      "content": "\ud83e\udd70",
+      "file_path": null,
+      "timestamp": "2026-05-24 09:53:40.502927",
+      "is_read": 0,
+      "is_delivered": 1
+    },
+    {
+      "message_id": 4,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "group_id": null,
+      "message_type": "text",
+      "content": "hii",
+      "file_path": null,
+      "timestamp": "2026-05-24 10:14:57.123717",
+      "is_read": 0,
+      "is_delivered": 1
+    },
+    {
+      "message_id": 5,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "group_id": null,
+      "message_type": "text",
+      "content": "fdg",
+      "file_path": null,
+      "timestamp": "2026-05-24 10:15:34.404446",
+      "is_read": 0,
+      "is_delivered": 1
+    }
+  ],
+  "groups": [],
+  "group_members": [],
+  "user_sessions": []
+}
