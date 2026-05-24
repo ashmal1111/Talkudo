@@ -16,3 +16,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 python run_server.py
 ```
+
+## 📊 Repository Stats
+
+![GitHub stars](https://img.shields.io/github/stars/ashmal1111/Talkudo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ashmal1111/Talkudo?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/ashmal1111/Talkudo)
+![GitHub repo size](https://img.shields.io/github/repo-size/ashmal1111/Talkudo)
